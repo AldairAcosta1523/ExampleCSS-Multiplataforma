@@ -11,9 +11,12 @@
             <Label Text="Bienvenido a mi Pagina con CSS!" HorizontalTextAlignment="Center" StyleClass="Titulo" FontFamily="Tabardo"/>
         </Frame>
         <Label />
+        <Label Text="Pagina de Aldair Acosta" FontFamily="Tabardo" StyleClass="Label1"></Label>
         <Entry Placeholder="Ingrese un Texto" StyleClass="EntradaTexto"></Entry>
-        <Button Text="Carro Deportivo 'GT' " StyleClass="Boton1" />
+        <Button Text="Carro Deportivo" StyleClass="Boton1" />
         <Image Source="imagen1.jpg" StyleClass="Imagen" />
+        <Button BorderColor="Lime" Text="Contenido" StyleClass="Button2" />
+
     </StackLayout>
 
 </ContentPage>
